@@ -47,7 +47,7 @@
 
 ## Thanks
 
-感谢浙大原始代码 [BUAA-nCov-Hitcarder](https://github.com/Tishacy/ZJU-nCov-Hitcarder/blob/master/LICENSE)
+感谢浙大原始代码 [ZJU-nCov-Hitcarder](https://github.com/Tishacy/ZJU-nCov-Hitcarder)
 
 
 
